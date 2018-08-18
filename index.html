@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <!-- Compilando Materialize-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <section class="container section">
+  <div class="row">
+    <div class="col s7 push-s5"><span class="flow-text">¡Mira todo lo que tenemos para en Lima!</span>
+    </div>
+    <div class="col s5 pull-s7"><span class="flow-text">Aquí encontrarás los mejores huariques"</span>
+      <br>
+      <br>
+
+      <input type="search" placeholder="Busca por nombre de restaurant" name="Busca por nombre de restaurant" id="searchName">
+    </div>
+  </div>
+ </section>
+  
+
+
+
+
+<!-- Compilando JavaScript con Materialize-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+  $(document).ready(function(){
+    $('.sidenav').sidenav();
+  });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+<script src="dataFood.js"></script>
+<script src="main.js"></script>
+
+</body>
+</html>
