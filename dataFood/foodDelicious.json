@@ -8,7 +8,7 @@
     "typeFood": "Peruana",
     "phone":"+511 2219393",
     "hours": "Lunes a viernes / 1-10pm",
-    "overage plate": "Desde S/.110 por persona "
+    "overagePlate": "Desde S/.110 por persona "
   },
   {
     "name":"Aromas Peruanos",
@@ -19,7 +19,7 @@
     "typeFood": "Peruana",
     "phone":"(01) 2241482",
     "hours": "Lunes a Sábado / 12:30pm -22:00",
-    "overage plate": "Desde S/.66 por persona "
+    "overagePlate": "Desde S/.66 por persona "
   },
   {
     "name":"La Piccolina",
@@ -30,7 +30,7 @@
     "typeFood": "Pastas",
     "phone":"(01) 4343450",
     "hours": "Martes a Domingo / 9am -20:00",
-    "overage plate": "Desde S/.40 por persona "
+    "overagePlate": "Desde S/.40 por persona "
   },
   {
     "name":"El Señorio de Sulco",
@@ -41,7 +41,7 @@
     "typeFood": "Peruana",
     "phone":"(01) 4410183",
     "hours": "Lunes a Domingo / 12:30 -22:00",
-    "overage plate": "Desde S/.110 por persona "
+    "overagePlate": "Desde S/.110 por persona "
   },
   {
     "name":"Restaurante La Romántica",
@@ -51,7 +51,7 @@
     "ocassionToEat":"Momento romántico",
     "phone":"(01) 4218549",
     "hours": "Lunes a Domingo / 12:30-23:00",
-    "overage plate": "Desde S/.110 por persona "
+    "overagePlate": "Desde S/.110 por persona "
   },
   {
     "name":"ámaZ Restaurante",
@@ -60,7 +60,7 @@
     "address":"Av.La Paz 1079",
     "phone":"+511 2219393",
     "hours": "Lunes a viernes / 1-10pm",
-    "overage plate": "Desde S/.110 por persona "
+    "overagePlate": "Desde S/.110 por persona "
   },
   {
     "name":"ámaZ Restaurante",
@@ -69,7 +69,7 @@
     "address":"Av.La Paz 1079",
     "phone":"+511 2219393",
     "hours": "Lunes a viernes / 1-10pm",
-    "overage plate": "Desde S/.110 por persona "
+    "overagePlate": "Desde S/.110 por persona "
   },
   {
     "name":"ámaZ Restaurante",
@@ -78,6 +78,6 @@
     "address":"Av.La Paz 1079",
     "phone":"+511 2219393",
     "hours": "Lunes a viernes / 1-10pm",
-    "overage plate": "Desde S/.110 por persona "
+    "overagePlate": "Desde S/.110 por persona "
   }
 ]
